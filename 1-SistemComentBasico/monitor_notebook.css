@@ -1,0 +1,27 @@
+@charset "utf-8";
+/*CSS Document*/
+#alinhar_imegem{
+	position: absolute;
+	left: 10px;	
+}
+.circular_square{
+	border-radius: 50%;
+}
+#alinhar_imegem_Padrao{
+	position: absolute;
+	left: 10px;
+}
+#c_dados{
+	position: absolute;
+	bottom: 650px
+}
+#fundo2{
+	width:1200x;
+	height:225px;
+}	
+
+#formulario{
+	position: absolute;
+	margin-top: -15px;
+	left: 150px;
+}
